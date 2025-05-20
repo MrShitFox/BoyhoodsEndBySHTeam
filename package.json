@@ -1,0 +1,19 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools --in-process-gpu",
+    "window": {
+        "title": "Boyhood's End by SHTeam",
+        "width": 816,
+        "height": 624,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+    ,
+    "window.icon": {
+        "icon": "icon/icon.png"
+    },
+    "icons": {
+        "256": "icon/icon.png"
+    }
+}
