@@ -1,0 +1,75 @@
+メモリーID,ステージ番号,チャプター名,DAY／,saveText翻訳ID,備考
+opening,1,0-00,???,saveText_36,銀河鉄道車内
+OP_PC,1,1-01,1,saveText_37,ジョバンニの部屋・PC
+GimRoom,1,1-02,1,saveText_4,ジョバンニの部屋
+GimCorridor,1,1-03,1,saveText_38,廊下～AR教室
+GimLounge,1,1-04,1,saveText_39,談話室～廊下（食堂前）
+GimCafeteria,1,1-05,1,saveText_40,食堂～自室前廊下
+GimEscape,1,1-06,1,saveText_41,ジョバンニの部屋～回廊前廊下
+GimFirstmeet,1,1-07,1,saveText_12,回廊
+GimBath,1,1-08,1,saveText_35,回廊奥（追加）
+GimBath2,1,1-09,1,saveText_14,大浴場
+GimCorridor2,1,1-10,1,saveText_15,廊下（階段下）　（名称変更）
+GimDorm,1,1-11,1,saveText_47,一般個室（追加）
+GimEntra,1,1-12,1,saveText_17,エントランス（追加）
+GimNakaniwa1,1,1-13,1,saveText_18,中庭
+GimNakaniwa2,1,1-14,1,saveText_19,廊下（中庭横）（追加）
+GimRturo1,1,1-15,1,saveText_43,R用通路
+IhatovRm,1,1-16,1,saveText_25,？？？？？の部屋
+GimBaseSta,1,1-17,1,saveText_26,廊下（基地局前）
+GimIdealhack,1,1-18,1,saveText_44,イデアル・ハック
+GimBaseSta2,1,1-19,1,saveText_45,廊下（基地局前）～ムーヴェーター
+GalacticRailroadSta,1,1-20,1,saveText_46,銀河鉄道ステーション
+GalacRail_1,1,1-21,1,saveText_36,銀河鉄道車内（追加）
+Stage2,2,2-01,2,saveText_36,銀河鉄道車内
+TrainGymMo,2,2-02,2,saveText_58,銀河鉄道車内2
+MoStation,2,2-03,2,saveText_48,モーリアン銀河鉄道ステーション
+Mohiroba1,2,2-04,2,saveText_49,リースタウン
+MoGoyu,2,2-05,2,saveText_56,豪遊タイム
+MoGesui,2,2-06,2,saveText_50,下水道
+Momove,2,2-07,2,saveText_51,ムーヴェーター前
+MoSH1,2,2-08,2,saveText_57,スプロール・ハイヴ1
+MoSH2222,2,2-09,2,saveText_52,スプロール・ハイヴ2
+MoSprawlHotel,2,2-10,2,saveText_53,スプロール・ハイヴ～ホテル
+MoPrePRm,2,2-11,3,saveText_54,元大統領執務室
+MoEV_JOINED0day,2,2-12,3,saveText_55,ムーヴェーター
+Stage2_2,2,2-13,4,saveText_59,1日目 ゼロデイ
+stage2_cage,2,2-14,4,saveText_60,監獄
+stage2_Zeroday,2,2-15,5,saveText_61,2日目 ゼロデイ
+stage2_FreeTime,2,2-16,5,saveText_62,2日目 自由時間
+Stage2_3,2,2-17,???,saveText_63,あの日の記憶
+Stage2_4,2,2-18,6,saveText_64,3日目 ゼロデイ
+zeroday5,2,2-19,8,saveText_65,5日目 ゼロデイ
+stage2_hotel7thday,2,2-20,10,saveText_66,7日目 ゼロデイ
+zeroday10,2,2-21,13,saveText_67,10日目 ゼロデイ
+Stage2_5,2,2-22,15,saveText_68,12日目 ゼロデイ
+Stage2_5_2,2,2-23,???,saveText_63,あの日の記憶
+Stage2_6,2,2-24,16,saveText_71,13日目 ゼロデイ1
+zeroday15_2,2,2-25,16,saveText_76,13日目 ゼロデイ2
+zeroday17,2,2-26,20,saveText_72,17日目 ゼロデイ
+zeroday17_doc,2,2-27,20,saveText_77,17日目 ドクの診療所
+Stage2_7,2,2-28,20,saveText_78,17日目 Wiの隠れ家
+zeroday21,2,2-29,24,saveText_74,21日目 ゼロデイ
+zeroday21_doc1,2,2-30,24,saveText_79,21日目 ドクの診療所１
+zeroday21_doc2,2,2-31,24,saveText_80,21日目 ドクの診療所２
+zeroday21_IH,2,2-32,24,saveText_81,21日目 イデアルハック
+Stage2_8_0,2,2-33,???,saveText_82,あの日の夢
+zeroday21_p,2,2-34,24,saveText_83,21日目 パーティー
+Stage2_8,2,2-35,25,saveText_75,22日目 ゼロデイ
+z22_sangeki,2,2-36,25,saveText_84,22日目 惨劇
+z22_HiddenRm,2,2-37,25,saveText_85,22日目 隠し部屋
+z22_SH,2,2-38,25,saveText_86,22日目 スプロールハイブ
+z22_above,2,2-39,25,saveText_87,22日目 地上へ
+z22_Mohouse,2,2-40,25,saveText_88,22日目 モーリィ・ハウス
+z22_Mo_speech,2,2-41,25,saveText_89,22日目 演説広場1
+Stage2_9,2,2-42,25,saveText_90,22日目 演説広場2
+z22_Mo_speech3,2,2-43,25,saveText_91,22日目 演説広場3
+z22_Mo_turo,2,2-44,25,saveText_92,22日目 モーリィ・ハウス通路
+z22_Mo_1F,2,2-45,25,saveText_93,22日目 モーリィ・ハウス1階
+z22_Mo_smallRm,2,2-46,25,saveText_94,22日目 モーリィ・ハウス2階小部屋
+z22_Mo_serverRm,2,2-47,25,saveText_95,22日目 サーバールーム
+Stage2_10,2,2-48,25,saveText_96,22日目 イデアル・ハック1
+z22_IH2,2,2-49,25,saveText_97,22日目 イデアル・ハック2
+z22_haka,2,2-50,25,saveText_99,22日目 モーリィの墓
+z22_Sta,2,2-51,25,saveText_98,22日目銀河鉄道ステーション
+z22_TrainGymMo,2,2-52,25,saveText_100,銀河鉄道車内
