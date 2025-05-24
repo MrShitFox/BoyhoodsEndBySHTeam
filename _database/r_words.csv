@@ -1,19 +1,19 @@
 翻訳ID,日本語,英語,中国語（簡体字）,韓国語
 word_1,November Gymnasium - C5E7,Ноябрьская Гимназия - C5E7,November Gymnasium - C5E7,November Gymnasium - C5E7
-word_1_memo,侵入先：ギムナジウム監視カメラ,Взлом: Наблюдатель-R,入侵目标：校园监控摄像头,침입 장소: 감나지움 감시 카메라
+word_1_memo,侵入先：ギムナジウム監視カメラ,Взлом: Обсерв-R,入侵目标：校园监控摄像头,침입 장소: 감나지움 감시 카메라
 word_2,Classroom Sesame - 3C01,Сезам в классе - 3C01,Classroom Sesame - 3C01,Classroom Sesame - 3C01
 word_3,What's two plus two? - 2FC8,Сколько будет два плюс два? - 2FC8,What's two plus two? - 2FC8,What's two plus two? - 2FC8
 word_4,Armchair Detective - 2366,Кабинетный детектив - 2366,Armchair Detective - 2366,Armchair Detective - 2366
 word_5,"I, ROBOT","Я, РОБОТ","I, ROBOT","I, ROBOT"
 word_5_memo,侵入先：R・カレルレン,Взлом: Р. Кареллен,入侵目标：R·卡列伦,침입 장소: R-카렐렌
 word_6,Dorm sesame - 0520,Сезам общежития - 0520,Dorm sesame - 0520,Dorm sesame - 0520
-word_7,Bath Sesame - B560,Сезам в ванной - B560,Bath Sesame - B560,Bath Sesame - B560
-word_8,The Capricious Robot：521,Капризный робот:521,The Capricious Robot：521,The Capricious Robot：521
+word_7,Bath Sesame - B560,Сезам в Ванной - B560,Bath Sesame - B560,Bath Sesame - B560
+word_8,The Capricious Robot：521,Капризный Робот:521,The Capricious Robot：521,The Capricious Robot：521
 word_9,silver ball,серебряный шар,silver ball,silver ball
 word_10,make everyone happy,сделать всех счастливыми,make everyone happy,make everyone happy
 word_10_memo,侵入先：銀河鉄道,Взлом: Галактическая железная дорога,入侵目标：银河铁道,침입 장소: 은하철도
 word_11,Caress of the Sphinx - 52E4,Прикосновение Сфинкса - 52E4,Caress of the Sphinx - 52E4,Caress of the Sphinx - 52E4
-word_12,Photon Cascade - 8548,Фотонный каскад - 8548,Photon Cascade - 8548,Photon Cascade - 8548
+word_12,Photon Cascade - 8548,Фотонный Каскад - 8548,Photon Cascade - 8548,Photon Cascade - 8548
 word_13,Soylent Green - 99B6,Сойлент Грин - 99B6,Soylent Green - 99B6,Soylent Green - 99B6
 word_14,Soylent Green - 62C6,Сойлент Грин - 62C6,Soylent Green - 62C6,Soylent Green - 62C6
 word_15,Soylent Green - 917E,Сойлент Грин - 917E,Soylent Green - 917E,Soylent Green - 917E
@@ -21,13 +21,13 @@ word_16,Soylent Green - ED24,Сойлент Грин - ED24,Soylent Green - ED24
 word_17,42,42,42,42
 word_17_memo,侵入先：イエトハブのPC,Взлом: ПК Ихатова,入侵目标：伊哈托夫的电脑,침입 장소: 예하토브의 PC
 word_18,Secret Sesame,Тайный Сезам,Secret Sesame,Secret Sesame
-word_19,Iron machine,железная машина,Iron machine,Iron machine
+word_19,Iron machine,Железная машина,Iron machine,Iron machine
 word_20,silver ball - 1AFC,серебряный шар - 1AFC,silver ball - 1AFC,silver ball - 1AFC
 word_21,Fountains of Paradise - 80AE,Фонтаны Рая - 80AE,Fountains of Paradise - 80AE,Fountains of Paradise - 80AE
 word_22,Move Sesame A-1,Сезам: Доступ A-1,Move Sesame A-1,Move Sesame A-1
-word_23,Scorpion Fire,Огонь Скорпиона,Scorpion Fire,Scorpion Fire
-word_24,Space Cleaner - 6E9A,Космический чистильщик - 6E9A,Space Cleaner - 6E9A,Space Cleaner - 6E9A
-word_28,The Capricious Robot - A524,Капризный робот - A524,The Capricious Robot - A524,The Capricious Robot - A524
+word_23,Scorpion Fire,Пламя Скорпиона,Scorpion Fire,Scorpion Fire
+word_24,Space Cleaner - 6E9A,Космический Чистильщик - 6E9A,Space Cleaner - 6E9A,Space Cleaner - 6E9A
+word_28,The Capricious Robot - A524,Капризный Робот - A524,The Capricious Robot - A524,The Capricious Robot - A524
 word_29,Dorm sesame - 0643,Сезам общежития - 0643,Dorm sesame - 0643,Dorm sesame - 0643
 word_30,Move Sesame D-57,Сезам: Доступ D-57,Move Sesame D-57,Move Sesame D-57
 word_31,Chip 'n Dale - E474,Чип и Дейл - E474,Chip 'n Dale - E474,Chip 'n Dale - E474
@@ -42,43 +42,43 @@ word_37,hachi-ko,хатико,hachi-ko,hachi-ko
 word_37_memo,侵入先：スニファー,Взлом: Сниффер,入侵目标：小闻,침입 장소: 스니퍼
 2話仮実装用↑,,,,
 word_38,UNTERM RAD - 7D13,ПОД КОЛЕСОМ - 7D13,UNTERM RAD - 7D13,UNTERM RAD - 7D13
-word_39,Golden Handle,Золотая ручка,Golden Handle,Golden Handle
-word_40,Copper Handle,Медная ручка,Copper Handle,Copper Handle
+word_39,Golden Handle,Золотая Ручка,Golden Handle,Golden Handle
+word_40,Copper Handle,Медная Ручка,Copper Handle,Copper Handle
 word_41,Cicada 3301,Цикада 3301,Cicada 3301,Cicada 3301
 word_41_memo,侵入先：ゼロデイ・プロテクト,Взлом: Файрвол Нулевого Дня,入侵目标：零日施加的保护机制,침입 장소: Zero Day 프로텍트
 2話その2仮実装用↓,,,,
 word_42,STAND ALONE COMPLEX,СИНДРОМ ОДИНОЧКИ,STAND ALONE COMPLEX,STAND ALONE COMPLEX
-word_43,Brave New World - CE21A9A1,О дивный новый мир - CE21A9A1,Brave New World - CE21A9A1,Brave New World - CE21A9A1
-word_43_memo,侵入先：共生体市民のジェム,Взлом: НейроГем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
-word_44,Brave New World - A485BB38,О дивный новый мир - A485BB38,Brave New World - A485BB38,Brave New World - A485BB38
-word_44_memo,侵入先：共生体市民のジェム,Взлом: НейроГем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
+word_43,Brave New World - CE21A9A1,О Дивный Новый Мир - CE21A9A1,Brave New World - CE21A9A1,Brave New World - CE21A9A1
+word_43_memo,侵入先：共生体市民のジェム,Взлом: НейроДжем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
+word_44,Brave New World - A485BB38,О Дивный Новый Мир - A485BB38,Brave New World - A485BB38,Brave New World - A485BB38
+word_44_memo,侵入先：共生体市民のジェム,Взлом: НейроДжем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
 word_45,Coppelia - 39D3,Коппелия - 39D3,Coppelia - 39D3,Coppelia - 39D3
-word_46,Down and Out in the Magic Kingdom,Фунт лиха в волшебном королевстве,Down and Out in the Magic Kingdom,Down and Out in the Magic Kingdom
+word_46,Down and Out in the Magic Kingdom,Вниз и Наружу в Волшебном Королевстве,Down and Out in the Magic Kingdom,Down and Out in the Magic Kingdom
 word_46_memo,侵入先：モーリアン銅像,Взлом: Статуя Моллиан,入侵目标：莫莉安的雕像,침입 장소: 모리안 동상
-word_47,Anatomical Snuffbox - 56C0,Анатомическая табакерка - 56C1,Anatomical Snuffbox - 56C2,Anatomical Snuffbox - 56C3
+word_47,Anatomical Snuffbox - 56C0,Анатомическая Табакерка - 56C1,Anatomical Snuffbox - 56C2,Anatomical Snuffbox - 56C3
 word_47_memo,侵入先：ハイヴ義手,Взлом: Протез конечности,入侵目标：巢中义肢,침입 장소:  하이브 의수
 word_48,Cream Park Lamplighter - AC64,Фонарщик Крем-Парка - AC64,Cream Park Lamplighter - AC64,Cream Park Lamplighter - AC64
 word_49,Neon Daemon,Неоновый Демон,Neon Daemon,Neon Daemon
 word_49_memo,侵入先：ゼロデイからの挑戦状,Взлом: Головоломка Нулевого Дня,入侵目标：来自零日的挑战书,침입 장소: Zero Day가 보낸 도전장
 word_50,Red Dragon,Красный Дракон,Red Dragon,Red Dragon
 word_50_memo,侵入先：カムパネルラの監獄,Взлом: Камера Кампанеллы,入侵目标：康帕聂拉关押处,침입 장소: 캄파넬라가 갇힌 감옥
-word_51,Brave New World - 4309DF18,О дивный новый мир - 4309DF18,Brave New World - 4309DF18,Brave New World - 4309DF18
-word_51_memo,侵入先：共生体市民のジェム,Взлом: НейроГем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
+word_51,Brave New World - 4309DF18,О Дивный Новый Мир - 4309DF18,Brave New World - 4309DF18,Brave New World - 4309DF18
+word_51_memo,侵入先：共生体市民のジェム,Взлом: НейроДжем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
 word_52,Count Zero,Граф Ноль,Count Zero,Count Zero
 word_52_memo,侵入先：Wiの部屋の扉,Взлом: Комната Ви,入侵目标：Wi房间的门,침입 장소: Wi의 방 문
-word_53,Brave New World - 8907DF21,О дивный новый мир - 8907DF21,Brave New World - 8907DF21,Brave New World - 8907DF21
-word_53_memo,侵入先：共生体市民のジェム,Взлом: НейроГем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
+word_53,Brave New World - 8907DF21,О Дивный Новый Мир - 8907DF21,Brave New World - 8907DF21,Brave New World - 8907DF21
+word_53_memo,侵入先：共生体市民のジェム,Взлом: НейроДжем Гражданина-Симбиота,入侵目标：共生体公民的神经宝石,침입 장소: 공생체 시민의 젬
 word_54,Cybernetic Limb,Кибернетическая конечность,Cybernetic Limb,Cybernetic Limb
 word_55,"First, do no harm.","Прежде всего, не навреди.","First, do no harm.","First, do no harm."
-word_56,Stairway to Heaven,Лестница в небо,Stairway to Heaven,Stairway to Heaven
+word_56,Stairway to Heaven,Лестница в Рай,Stairway to Heaven,Stairway to Heaven
 word_57,Time-out,Тайм-аут,Time-out,Time-out
-word_58,Girlhood,Девичество,Girlhood,Girlhood
+word_58,Girlhood,Girlhood,Girlhood,Girlhood
 word_58_memo,侵入先：Wiの端末,Взлом: ПК Ви,入侵目标：Wi的终端,침입 장소: Wi의 단말
 word_59,PERFECT BLUE,ИСТИННАЯ ГРУСТЬ,PERFECT BLUE,PERFECT BLUE
 word_60,PAPRIKA,ПАПРИКА,PAPRIKA,PAPRIKA
 word_61,It's a small world  - AC74D5,Этот тесный мир - AC74D5,It's a small world  - AC74D5,It's a small world  - AC74D5
 word_62,"LOVE, DEATH & ROBOTS - F78EA096","ЛЮБОВЬ, СМЕРТЬ И РОБОТЫ - F78EA096","LOVE, DEATH & ROBOTS - F78EA096","LOVE, DEATH & ROBOTS - F78EA096"
-word_62_memo,侵入先：ラブのジェム,Взлом: НейроГем Любви,入侵目标：“仁爱”的神经宝石,침입 장소: 러브의 젬
+word_62_memo,侵入先：ラブのジェム,Взлом: НейроДжем Любви,入侵目标：“仁爱”的神经宝石,침입 장소: 러브의 젬
 word_63,Club 33,Клуб 33,Club 33,Club 33
-word_64,When You Wish upon a Star,Когда загадываешь желание звезде,When You Wish upon a Star,When You Wish upon a Star
-word_64_memo,侵入先：モーリィ・リースの端末,Взлом: Устройство Молли Рейсс,入侵目标：莫莉·莉斯的终端,침입 장소: 몰리 리스의 단말
+word_64,When You Wish upon a Star,Когда Загадываешь Желание Звезде,When You Wish upon a Star,When You Wish upon a Star
+word_64_memo,侵入先：モーリィ・リースの端末,Взлом: Устройство Молли Райсс,入侵目标：莫莉·莉斯的终端,침입 장소: 몰리 리스의 단말
